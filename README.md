@@ -10,7 +10,7 @@ Our previous joint project with The Southern Institute (TSI), Having a Baby in S
 
 The code is designed to run inside the Integrated Data Infrastructure (IDI), which is built and maintained by Stats NZ. It is necessary to have an IDI project if you wish to run the code. Visit the Stats NZ website for more information about this.
 
-This analysis has been developed for the 20200120 refresh of the IDI. As changes in database structure can occur between refreshes, the initial preparation of the input information may require updating to run the code in other refreshes.
+This analysis has been developed for the 20201020 refresh of the IDI. As changes in database structure can occur between refreshes, the initial preparation of the input information may require updating to run the code in other refreshes.
 
 # Installation
 
