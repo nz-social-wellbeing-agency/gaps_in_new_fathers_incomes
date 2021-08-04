@@ -14,9 +14,9 @@ This analysis has been developed for the 20201020 refresh of the IDI. As changes
 
 # Installation
 
-To install the code, download this repository, copy it to your working location and unzip it. Researchers will first want to run the SQL files to build the analysis dataset. There are four SQL files, three setup files, followed by the main assembly script. Second, researchers will want to run the R scripts to produce summarised outputs.
+To install the code, download this repository, copy it to your working location and unzip it. Researchers will first want to run the SQL files to build the analysis dataset. There are four SQL files: three setup files, followed by the main assembly script. Second, researchers will want to run the R scripts to produce summarised outputs.
 
-Note that some SQL contain parameterisation. However setting command-line parameters is not enabled by default, hence users need to activate this by clicking **Query->SQLCMD** Mode.
+Note that some SQL scripts contain parameterisation. However setting command-line parameters is not enabled by default, hence users need to activate this by clicking **Query->SQLCMD** Mode.
 
 The codes have been tested to work on Microsoft SQL Server 2018 and R version 3.6.3, the versions in the IDI at the time of writing.
 
