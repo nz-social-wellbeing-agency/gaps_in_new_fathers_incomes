@@ -4,7 +4,7 @@ Investigation into patterns of new fathers being outside paid employment about t
 
 # Overview
 
-Our previous joint project with The Southern Institute (TSI), Having a Baby in South Auckland, generated further interest. One of the strongest findings emerging from this work showed fathers exhibit a pattern of being outside paid employment (not earning income) about the time of the birth. Together TSI and the Agency decided to continue the work by investigating this finding further. The [report](https://www.tsi.nz/s/What-About-the-Menz) from this research can be found under reports on [TSI's website](https://www.tsi.nz/).
+Our previous joint project with The Southern Institute (TSI), Having a Baby in South Auckland, generated further interest (quick guide [here](https://swa.govt.nz/assets/Publications/reports/J000443_SIA_Case_study_Quick_guide_DIGITAL.pdf)). One of the strongest findings emerging from this work showed fathers exhibit a pattern of being outside paid employment (not earning income) about the time of the birth. Together TSI and the Agency decided to continue the work by investigating this finding further. The [report](https://www.tsi.nz/s/What-About-the-Menz) from this research can be found under reports on [TSI's website](https://www.tsi.nz/).
 
 # Dependencies
 
@@ -22,7 +22,7 @@ The codes have been tested to work on Microsoft SQL Server 2018 and R version 3.
 
 # Related work
 
-Code from our previous partnership project with The Southern Initiative, Having a Baby in South Auckland (HaBiSA), can be found in two other repositories: The analysis and data preparation can be found under [representative timelines](https://github.com/nz-social-wellbeing-agency/representative_timelines) and the visualisation app can be found under [timeline visualisation](https://github.com/nz-social-wellbeing-agency/timeline_visualisation).
+Code from our previous partnership project with The Southern Initiative, Having a Baby in South Auckland (HaBiSA), can be found in two other repositories: The analysis and data preparation can be found under [representative timelines](https://github.com/nz-social-wellbeing-agency/representative_timelines) and the visualisation app can be found under [timeline visualisation](https://github.com/nz-social-wellbeing-agency/timeline_visualisation). You can read about the original research [here](https://swa.govt.nz/assets/Publications/reports/J000443-SIA-Print-Collateral-_-Case-study-2.3-FINAL-DIGITAL-v2.pdf) on the Agency's [website](https://swa.govt.nz/).
 
 # Getting Help
 General enquiries can be sent to info@swa.govt.nz.  
