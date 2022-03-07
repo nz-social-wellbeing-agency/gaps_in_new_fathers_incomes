@@ -24,6 +24,10 @@ The codes have been tested to work on Microsoft SQL Server 2018 and R version 3.
 
 Code from our previous partnership project with The Southern Initiative, Having a Baby in South Auckland (HaBiSA), can be found in two other repositories: The analysis and data preparation can be found under [representative timelines](https://github.com/nz-social-wellbeing-agency/representative_timelines) and the visualisation app can be found under [timeline visualisation](https://github.com/nz-social-wellbeing-agency/timeline_visualisation). You can read about the original research [here](https://swa.govt.nz/assets/Publications/reports/J000443-SIA-Print-Collateral-_-Case-study-2.3-FINAL-DIGITAL-v2.pdf) on the Agency's [website](https://swa.govt.nz/).
 
+# Citation
+
+Social Wellbeing Agency (2021). Gaps in new fathers incomes. Source code. https://github.com/nz-social-wellbeing-agency/gaps_in_new_fathers_incomes
+
 # Getting Help
 General enquiries can be sent to info@swa.govt.nz.  
 
